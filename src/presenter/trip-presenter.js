@@ -1,5 +1,5 @@
 import { renderElement, RenderPosition, removeElement } from "../render.js";
-import EventsListView from "../view/events-list-view.js";
+import EventsListView from "../view/event-list-view.js";
 import NoEventView from "../view/no-event-view.js";
 import SiteSortView from "../view/site-sort-view.js";
 import PointPresenter from "./point-presenter.js";

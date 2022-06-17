@@ -1,4 +1,4 @@
-import EventView from "../view/event-view";
+import EventView from "../view/event-item-view";
 import EventEditView from "../view/event-edit-view";
 import {
   renderElement,
